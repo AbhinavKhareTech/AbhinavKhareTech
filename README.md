@@ -49,7 +49,7 @@ MBA (Finance), London Business School
 M.S. Engineering, ETH Zurich
 
 Exits
-Vyomo.com (exited ~$15M to Naturals Group) | Odinmo / Banking-as-a-Service (~$15M)
+Vyomo.com 15m$ exited to Naturals Group | Odinmo / Banking-as-a-Service exited as JV to IPO Bound Mena Tech Unicorn
 
 Select Board Roles
 12 active and past board seats across fintech, banking, media, infrastructure, and defence sectors
