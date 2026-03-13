@@ -10,7 +10,7 @@ Building systems that **move money securely**, **detect fraud in real time**, an
 Two **$15M exits**. 12 board seats across fintech, banking, media, infrastructure, and defence.  
 At the intersection of deep engineering, product strategy, and company building.
 
-### 🚀 Currently Building
+### Currently Building
 
 **Cofounder & CPTO @ AhinsaAI**  
 GenAI + agentic platforms for BFSI. Leading **SwarAI** — vernacular voice AI (10+ Indian languages) targeting sub-300ms latency for banking, insurance, lending, eKYC, and collections.
@@ -18,7 +18,7 @@ GenAI + agentic platforms for BFSI. Leading **SwarAI** — vernacular voice AI (
 **Board Member & UBO @ Moxey.ai**  
 Fintech infrastructure for MENA logistics. Scaled 400-FTE India GCC; platforms live at top-tier MENA banks; heading toward IPO.
 
-### 🛠️ What I Build
+### What I Build
 
 **Payments, Risk & Fraud**  
 End-to-end platforms at 9 top MENA banks: processors, switches, wallets, merchant acquiring. Real-time fraud engines, distributed ledgers, authorization flows, multi-regulator compliance (PCI-DSS 4.0, RBI, SAMA, CBUAE, PSD2).
@@ -29,7 +29,7 @@ Regulated-domain voice agents: streaming pipelines (WebRTC/WebSocket), ASR/TTS, 
 **Scale Engineering**  
 Asianet News Digital: 3M → 75M MAUs (9 languages), ~2× revenue. Built two 400–500 FTE India GCCs. Fintech systems handling millions of daily transactions.
 
-### ⭐ Featured Repositories
+### Featured Repositories
 
 **Explore the flagship reference implementation** — actual code + IaC from real production designs:
 
