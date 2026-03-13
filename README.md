@@ -1,65 +1,84 @@
-Abhinav Khare
+![Engineering Executive — Payments | AI Infrastructure | Voice AI](https://img.shields.io/badge/Engineering%20Executive-Payments%20%7C%20AI%20Infrastructure%20%7C%20Voice%20AI-black?style=for-the-badge)
 
-Engineering Executive | 4x Founder | Payments, Risk & Fraud | AI Infrastructure | Voice AI
+**Abhinav Khare**  
+Engineering Executive | 4× Founder  
+Payments • Risk & Fraud • AI Infrastructure • Voice AI  
 
-Building systems that move money, fight fraud, and speak every language.
-20+ years shipping production platforms across fintech, payments, AI infrastructure, and consumer tech. Two $15M exits. 12 board seats spanning fintech, banking, media, infrastructure, and defence. I operate at the intersection of deep systems engineering, product strategy, and company building.
+Building systems that **move money securely**, **detect fraud in real time**, and **speak every language** with ultra-low latency.  
 
-Currently Building
+20+ years shipping production platforms in fintech, payments, AI infra, and consumer scale.  
+Two **$15M exits**. 12 board seats across fintech, banking, media, infrastructure, and defence.  
+At the intersection of deep engineering, product strategy, and company building.
 
-Cofounder & CPTO, AhinsaAI
-GenAI and agentic AI platforms for BFSI. Building SwarAI, a production voice AI system serving Indian vernacular languages with sub-300ms latency targets across banking, insurance, and lending workflows.
+### 🚀 Currently Building
 
-Board Member & UBO, Moxey.ai
-Fintech infrastructure for logistics across MENA. Built and scaled a 400-FTE India GCC. Heading toward IPO.
+**Cofounder & CPTO @ AhinsaAI**  
+GenAI + agentic platforms for BFSI. Leading **SwarAI** — vernacular voice AI (10+ Indian languages) targeting sub-300ms latency for banking, insurance, lending, eKYC, and collections.
 
-What I Build
+**Board Member & UBO @ Moxey.ai**  
+Fintech infrastructure for MENA logistics. Scaled 400-FTE India GCC; platforms live at top-tier MENA banks; heading toward IPO.
 
-Payments, Risk & Fraud Engineering
-Production payment platforms deployed across 9 top-tier MENA banks. End-to-end systems covering processors, card management, switches, payroll, wallets, and expense management. Real-time fraud scoring pipelines, payment authorization flows, and multi-jurisdiction compliance architectures (PCI-DSS, RBI, TRAI, MENA regulators).
+### 🛠️ What I Build
 
-AI Infrastructure & Voice AI
-Enterprise-grade AI voice agent systems for regulated industries: workflow orchestration, eKYC automation, credit card onboarding journeys, and collections. Vernacular voice AI across 10+ Indian languages. Production architectures covering voice streaming, latency optimization, and full observability stacks tuned for Indian telecom networks.
+**Payments, Risk & Fraud**  
+End-to-end platforms at 9 top MENA banks: processors, switches, wallets, merchant acquiring. Real-time fraud engines, distributed ledgers, authorization flows, multi-regulator compliance (PCI-DSS 4.0, RBI, SAMA, CBUAE, PSD2).
 
-Scale Engineering
-Grew Asianet News Digital from 3M to 75M MAUs across 9 Indian languages while nearly doubling revenue. Built two India GCCs (400 and 500 FTEs). Deployed fintech platforms serving millions of daily transactions across MENA.
+**AI Infrastructure & Voice AI**  
+Regulated-domain voice agents: streaming pipelines (WebRTC/WebSocket), ASR/TTS, LLM orchestration, RAG, telecom-tuned observability for Indian networks.
 
-Featured Repositories
+**Scale Engineering**  
+Asianet News Digital: 3M → 75M MAUs (9 languages), ~2× revenue. Built two 400–500 FTE India GCCs. Fintech systems handling millions of daily transactions.
 
-[![Merchant Payments Platform](https://img.shields.io/badge/Explore%20Merchant%20Payments-blue?style=for-the-badge&logo=github)](https://github.com/AbhinavKhareTech/merchant-payments-platform)
+### ⭐ Featured Repositories
+
+**Explore the flagship reference implementation** — actual code + IaC from real production designs:
+
+[![Merchant Payments Platform](https://img.shields.io/badge/Explore-Merchant%20Payments-blue?style=for-the-badge&logo=github)](https://github.com/AbhinavKhareTech/merchant-payments-platform)  
+Production-grade acquiring platform: 50k+ TPS, <45ms fraud decisions, Go/Java/Python code, Terraform, UPI flows, fraud ensemble (rules + XGBoost + autoencoder), double-entry ledger.
+
 [![Fraud Detection Platform](https://img.shields.io/badge/Fraud%20Engine-purple?style=for-the-badge&logo=github)](https://github.com/AbhinavKhareTech/fraud-detection-platform)
 
-What It Demonstrates
+| Repository                          | What It Demonstrates                                                                 |
+|-------------------------------------|--------------------------------------------------------------------------------------|
+| merchant-payments-architecture      | Scalable POS → settlement flow, fraud injection points, idempotency                 |
+| fraud-detection-platform            | Real-time scoring: ML feature store, rules, chargeback loops                        |
+| event-driven-ledger                 | Immutable double-entry, event-sourced, audit-ready                                  |
+| high-availability-payments-api      | Multi-region resilience, circuit breakers, graceful degradation                     |
+| distributed-rate-limiter            | Redis/token-bucket for high-throughput gateways                                     |
 
-merchant-payments-architectureScalable merchant payments system design: POS ingestion through clearing and settlementfraud-detection-platformReal-time fraud scoring pipeline with ML feature stores, rules engines, and case managementevent-driven-ledgerEvent-sourced financial ledger with strict correctness guarantees and auditabilityhigh-availability-payments-apiMulti-region resilient payment API: idempotency, circuit breakers, graceful degradationdistributed-rate-limiterDistributed rate limiting for high-throughput API gateways using Redis and token buckets
+### 🔧 Technical Depth
 
-Technical Depth
+**Systems Architecture**  
+Distributed transactions • Event-driven (Kafka) • CQRS/event sourcing • Idempotent APIs • Multi-region HA • Fault-tolerant queues
 
-Systems & Architecture
-Distributed transactions, event-driven architectures, idempotent API design, multi-region reliability, fault-tolerant job queues, CQRS/event sourcing, high-availability platform design
+**AI Infrastructure**  
+Agentic orchestration • Voice streaming (WebRTC) • ASR/TTS/LLM pipelines • Real-time inference • RAG for regulated domains
 
-AI & ML Infrastructure
-Agentic AI workflow orchestration, voice streaming pipelines (WebSocket/WebRTC), ASR/TTS integration, LLM orchestration for regulated domains, real-time inference serving, RAG pipelines
+**Payments Domain**  
+Authorization & settlement • Visa/Mastercard integrations • 3DS/SCA • Chargeback automation • Merchant onboarding • PCI compliance
 
-Payments Domain
-Payment authorization pipelines, distributed ledgers, card scheme integrations (Visa/Mastercard), 3DS/SCA flows, chargeback automation, merchant onboarding, PCI-DSS compliance
+**Core Stack**  
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java) ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python) ![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)  
+![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apachekafka) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis) ![DynamoDB](https://img.shields.io/badge/DynamoDB-black?style=flat&logo=amazondynamodb)  
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws) ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes) ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker) ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat&logo=terraform)  
+![gRPC](https://img.shields.io/badge/gRPC-black?style=flat&logo=grpc) ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql) ![REST](https://img.shields.io/badge/REST-black?style=flat)
 
-Languages & Stack
-Java | Python | Go | TypeScript
-Kafka | PostgreSQL | Redis | DynamoDB
-AWS | Kubernetes | Docker | Terraform
-gRPC | GraphQL | REST
+### Background
 
-Background
-Education
-MBA (Finance), London Business School
-M.S. Engineering, ETH Zurich
+**Education**  
+MBA (Finance) — London Business School  
+M.S. Engineering — ETH Zurich  
 
-Exits
-Vyomo.com 15m$ exited to Naturals Group | Odinmo / Banking-as-a-Service exited as JV to IPO Bound Mena Tech Unicorn
+**Exits**  
+Vyomo — $15M to Naturals Group  
+Odinmo (Banking-as-a-Service) — JV exit to MENA fintech unicorn (IPO-bound)
 
-Select Board Roles
-12 active and past board seats across fintech, banking, media, infrastructure, and defence sectors
+**Board Roles**  
+12 active/past across fintech, banking, media, infrastructure, defence.
 
-Previously
-Group CEO, Asianet News (75M MAU/9 B Videos Views Monthly)
+**Previously**  
+Group CEO, Asianet News — 75M MAU, 9B monthly video views, 9 languages.
+
+---
+
+[@iabhinavKhare](https://x.com/iabhinavKhare) · [LinkedIn](https://www.linkedin.com/in/abhinavkhare/) · [moxey.ai](https://moxey.ai/)
