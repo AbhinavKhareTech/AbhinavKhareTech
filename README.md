@@ -14,6 +14,7 @@ Board Member & UBO, Moxey.ai
 Fintech infrastructure for logistics across MENA. Built and scaled a 400-FTE India GCC. Heading toward IPO.
 
 What I Build
+
 Payments, Risk & Fraud Engineering
 Production payment platforms deployed across 9 top-tier MENA banks. End-to-end systems covering processors, card management, switches, payroll, wallets, and expense management. Real-time fraud scoring pipelines, payment authorization flows, and multi-jurisdiction compliance architectures (PCI-DSS, RBI, TRAI, MENA regulators).
 
