@@ -25,7 +25,10 @@ Scale Engineering
 Grew Asianet News Digital from 3M to 75M MAUs across 9 Indian languages while nearly doubling revenue. Built two India GCCs (400 and 500 FTEs). Deployed fintech platforms serving millions of daily transactions across MENA.
 
 Featured Repositories
-RepositoryWhat It Demonstratesmerchant-payments-architectureScalable merchant payments system design: POS ingestion through clearing and settlementfraud-detection-platformReal-time fraud scoring pipeline with ML feature stores, rules engines, and case managementevent-driven-ledgerEvent-sourced financial ledger with strict correctness guarantees and auditabilityhigh-availability-payments-apiMulti-region resilient payment API: idempotency, circuit breakers, graceful degradationdistributed-rate-limiterDistributed rate limiting for high-throughput API gateways using Redis and token buckets
+
+What It Demonstrates
+
+merchant-payments-architectureScalable merchant payments system design: POS ingestion through clearing and settlementfraud-detection-platformReal-time fraud scoring pipeline with ML feature stores, rules engines, and case managementevent-driven-ledgerEvent-sourced financial ledger with strict correctness guarantees and auditabilityhigh-availability-payments-apiMulti-region resilient payment API: idempotency, circuit breakers, graceful degradationdistributed-rate-limiterDistributed rate limiting for high-throughput API gateways using Redis and token buckets
 
 Technical Depth
 
