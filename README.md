@@ -26,6 +26,9 @@ Grew Asianet News Digital from 3M to 75M MAUs across 9 Indian languages while ne
 
 Featured Repositories
 
+[![Merchant Payments Platform](https://img.shields.io/badge/Explore%20Merchant%20Payments-blue?style=for-the-badge&logo=github)](https://github.com/AbhinavKhareTech/merchant-payments-platform)
+[![Fraud Detection Platform](https://img.shields.io/badge/Fraud%20Engine-purple?style=for-the-badge&logo=github)](https://github.com/AbhinavKhareTech/fraud-detection-platform)
+
 What It Demonstrates
 
 merchant-payments-architectureScalable merchant payments system design: POS ingestion through clearing and settlementfraud-detection-platformReal-time fraud scoring pipeline with ML feature stores, rules engines, and case managementevent-driven-ledgerEvent-sourced financial ledger with strict correctness guarantees and auditabilityhigh-availability-payments-apiMulti-region resilient payment API: idempotency, circuit breakers, graceful degradationdistributed-rate-limiterDistributed rate limiting for high-throughput API gateways using Redis and token buckets
