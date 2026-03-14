@@ -78,7 +78,7 @@ M.S. Engineering — ETH Zurich
 
 **Exits**  
 Vyomo — $15M exit to Naturals Group  
-Odinmo (Banking-as-a-Service) — Moxey.ai was a JV exitted to majority shareholder that is an IPO-bound MENA tech unicorn
+Odinmo (Banking-as-a-Service) — Moxey.ai was a JV exited to majority shareholder that is an IPO-bound MENA tech unicorn
 
 **Board Roles**  
 12 active and past seats across fintech, banking, media, infrastructure, defence.
