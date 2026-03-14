@@ -2,7 +2,7 @@
 
 **Abhinav Khare**  
 Engineering Executive | 4× Founder  
-Payments • Risk & Fraud • AI Infrastructure • Voice AI  
+Payments • Risk & Fraud • AI Infrastructure • Voice AI
 
 Building systems that **move money securely**, **detect fraud in real time**, and **speak every language** with ultra-low latency.
 
@@ -11,7 +11,6 @@ Two **$15M exits**. 12 board seats spanning fintech, banking, media, infrastruct
 Operating at the intersection of deep systems engineering, product strategy, and high-growth company building.
 
 ### Currently Building
-
 **Cofounder & CPTO @ AhinsaAI**  
 GenAI + agentic platforms for BFSI. Leading **SwarAI** — production-grade vernacular voice AI for 10+ Indian languages, targeting sub-300 ms end-to-end latency in banking, insurance, lending, eKYC, and collections workflows.
 
@@ -19,7 +18,6 @@ GenAI + agentic platforms for BFSI. Leading **SwarAI** — production-grade vern
 Fintech infrastructure powering logistics across MENA. Scaled a 400-FTE India GCC; platforms live at top-tier MENA banks; on track toward IPO.
 
 ### What I Build
-
 **Payments, Risk & Fraud Engineering**  
 End-to-end production platforms deployed across 9 top-tier MENA banks: processors, switches, wallets, merchant acquiring, payroll, expense tools. Real-time fraud scoring, authorization flows, distributed ledgers, multi-jurisdiction compliance (PCI-DSS 4.0, RBI, SAMA, CBUAE, PSD2/SCA).
 
@@ -30,22 +28,23 @@ Enterprise voice agents for regulated domains: streaming ASR/TTS pipelines, LLM 
 Grew Asianet News Digital from 3M → 75M MAUs (9 languages) while nearly doubling revenue. Built and led two large India GCCs (400–500 FTE). Deployed fintech systems processing millions of daily transactions across MENA.
 
 ### Featured Repositories
-
-**Most comprehensive reference implementation** — actual code + infrastructure from production-grade designs:
+**Most comprehensive reference implementation** — actual code + infrastructure from production-grade designs for merchant acquiring, risk decisioning, and high-availability payments:
 
 [![Merchant Payments Platform](https://img.shields.io/badge/Explore-Merchant%20Payments-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhinavKhareTech/merchant-payments-platform)  
 Production-grade merchant acquiring platform: Go/Java/Python reference code, Terraform IaC, 50k+ TPS design, <45 ms fraud decisions, UPI flows, fraud ensemble (rules + XGBoost + autoencoder), idempotency, double-entry ledger, OpenAPI spec.
 
-| Repository                          | What It Demonstrates                                                                 |
-|-------------------------------------|--------------------------------------------------------------------------------------|
-| merchant-payments-architecture      | Scalable POS → settlement flow, fraud injection points, idempotency                 |
-| fraud-detection-platform            | Real-time fraud scoring: ML feature store, rules engine, chargeback loops           |
-| event-driven-ledger                 | Immutable double-entry, event-sourced financial ledger, audit-ready                 |
-| high-availability-payments-api      | Multi-region resilient payments API: circuit breakers, graceful degradation         |
-| distributed-rate-limiter            | High-throughput distributed rate limiting (Redis + token bucket)                    |
+| Repository                  | What It Demonstrates |
+|-----------------------------|--------------------------------------------------------------------------------------|
+| **payment-intelligence-engine** | GenAI-powered real-time transaction risk scoring (Claude LLM + deterministic rules fallback), Kafka ingestion, Hazelcast caching, circuit-breaker resilience, Prometheus/Grafana observability, sub-300ms latency |
+| merchant-payments-architecture | Scalable POS → settlement flow, fraud injection points, idempotency |
+| fraud-detection-platform | Real-time fraud scoring: ML feature store, rules engine, chargeback loops |
+| event-driven-ledger | Immutable double-entry, event-sourced financial ledger, audit-ready |
+| high-availability-payments-api | Multi-region resilient payments API: circuit breakers, graceful degradation |
+| distributed-rate-limiter | High-throughput distributed rate limiting (Redis + token bucket) |
+
+**Core intelligence layer:** See [payment-intelligence-engine](https://github.com/AbhinavKhareTech/payment-intelligence-engine) for GenAI-augmented risk scoring that plugs directly into merchant-payments-platform flows.
 
 ### 🔧 Technical Depth
-
 **Systems & Architecture**  
 Distributed transactions • Event-driven (Kafka) • CQRS/event sourcing • Idempotent APIs • Multi-region HA • Fault-tolerant queues
 
@@ -56,41 +55,37 @@ Agentic workflow orchestration • Voice streaming (WebRTC/WebSocket) • ASR/TT
 Authorization & settlement engines • Visa/Mastercard integrations • 3DS/SCA flows • Chargeback automation • Merchant onboarding • PCI-DSS compliance
 
 **Core Stack**  
-![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java)  
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)  
-![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go)  
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)  
-
-![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apachekafka)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)  
-![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis)  
-![DynamoDB](https://img.shields.io/badge/DynamoDB-black?style=flat&logo=amazondynamodb)  
-
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes)  
-![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)  
-![Terraform](https://img.shields.io/badge/Terraform-black?style=flat&logo=terraform)  
-
-![gRPC](https://img.shields.io/badge/gRPC-black?style=flat&logo=grpc)  
-![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql)  
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-black?style=flat&logo=amazondynamodb)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat&logo=terraform)
+![gRPC](https://img.shields.io/badge/gRPC-black?style=flat&logo=grpc)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql)
 ![REST](https://img.shields.io/badge/REST-black?style=flat)
 
 ### Background
-
 **Education**  
 MBA (Finance) — London Business School  
-M.S. Engineering — ETH Zurich  
+M.S. Engineering — ETH Zurich
 
 **Exits**  
 Vyomo — $15M exit to Naturals Group  
-Odinmo (Banking-as-a-Service) — JV exit to IPO-bound MENA fintech unicorn
+Odinmo (Banking-as-a-Service) — Moxey.ai was a JV exitted to majority shareholder that is an IPO-bound MENA tech unicorn
 
 **Board Roles**  
 12 active and past seats across fintech, banking, media, infrastructure, defence.
 
 **Previously**  
-Group CEO, Asianet News — scaled digital to 75M MAU / 9B monthly video views (9 languages)
+Group CEO Asianetnews- scaled digital to 75M MAU/ 9B monthly video views in 9 languages
+
 
 ---
-
 [@iabhinavKhare](https://x.com/iabhinavKhare) [LinkedIn](https://www.linkedin.com/in/abhinavkhare/) · [moxey.ai](https://moxey.ai/)
