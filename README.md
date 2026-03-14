@@ -11,10 +11,10 @@ Two **$15M exits**. 12 board seats spanning fintech, banking, media, infrastruct
 Operating at the intersection of deep systems engineering, product strategy, and high-growth company building.
 
 ### Currently Building
-**Cofounder & CPTO @ AhinsaAI**  
+**Cofounder & CTO @ AhinsaAI**  
 GenAI + agentic platforms for BFSI. Leading **SwarAI** — production-grade vernacular voice AI for 10+ Indian languages, targeting sub-300 ms end-to-end latency in banking, insurance, lending, eKYC, and collections workflows.
 
-**Board Member & UBO @ Moxey.ai**  
+**Cofounder & Board Member & Ex-CTO @ Moxey.ai**  
 Fintech infrastructure powering logistics across MENA. Scaled a 400-FTE India GCC; platforms live at top-tier MENA banks; on track toward IPO.
 
 ### What I Build
