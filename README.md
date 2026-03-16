@@ -1,7 +1,10 @@
-![Engineering Executive — Payments | AI Infrastructure | Voice AI](https://img.shields.io/badge/Engineering%20Executive-Payments%20%7C%20AI%20Infrastructure%20%7C%20Voice%20AI-black?style=for-the-badge)
+
 **Abhinav Khare**
-Engineering Executive | 4× Founder
+
+Engineering Executive | 4× Cofounder & CTO
+
 Payments • Risk & Fraud • AI Infrastructure • Voice AI
+
 Building systems that **move money securely**, **detect fraud in real time**, and **speak every language** with ultra-low latency.
 20+ years shipping production-scale platforms across fintech, payments, AI infrastructure, and consumer tech.
 Two **$15M exits**. 12 board seats spanning fintech, banking, media, infrastructure, and defence.
@@ -38,6 +41,7 @@ Production-grade merchant acquiring platform: Go/Java/Python reference code, Ter
 | **[event-driven-ledger](https://github.com/AbhinavKhareTech/event-driven-ledger)** | Immutable double-entry, event-sourced financial ledger, audit-ready |
 | **[high-availability-payments-api](https://github.com/AbhinavKhareTech/high-availability-payments-api)** | Multi-region resilient payments API: circuit breakers, graceful degradation |
 | **[distributed-rate-limiter](https://github.com/AbhinavKhareTech/distributed-rate-limiter)** | High-throughput distributed rate limiting (Redis + token bucket) |
+| **[payment-intelligence-engine](https://github.com/AbhinavKhareTech/payment-intelligence-engine)** | Intelligent payment routing, dynamic fee optimization, ML-based decisioning, transaction enrichment, and adaptive orchestration layer |
 
 ### Other Work
 **Data Platform Engineering** — real-time data integration, connector frameworks, and pipeline observability:
