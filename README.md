@@ -16,7 +16,7 @@ Operating at the intersection of deep systems engineering, product strategy, and
 
 | | |
 |---|---|
-| **Cofounder & CPTO — AhinsaAI** | GenAI + agentic platforms for BFSI. Leading **SwarAI** — production-grade vernacular voice AI for 10+ Indian languages, targeting sub-300ms end-to-end latency across banking, insurance, lending, eKYC, and collections. |
+| **Cofounder & CTO — AhinsaAI** | GenAI + agentic platforms for BFSI. Leading **SwarAI** — production-grade vernacular voice AI for 10+ Indian languages, targeting sub-300ms end-to-end latency across banking, insurance, lending, eKYC, and collections. |
 | **Board Member & Ex-CTO — Moxey.ai** | Fintech infrastructure powering logistics across MENA. Scaled a 400-FTE India GCC. Platforms live at top-tier MENA banks, on track toward IPO. |
 
 ---
