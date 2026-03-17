@@ -24,7 +24,10 @@ End-to-end production platforms deployed across 9 top-tier MENA banks: processor
 **AI Infrastructure & Voice AI**  
 Enterprise voice agents for regulated domains: streaming ASR/TTS pipelines, LLM orchestration, RAG, real-time inference, telecom-grade observability optimized for Indian networks.  
 Key reference: **Tiger Voice Agent** — production-grade voice AI implementation with WebSocket streaming, agentic LLM flows, compliance guardrails (TRAI/RBI), sub-300 ms latency for vernacular Indian languages, full KYC/activation journeys.  
+
 [![Tiger Voice Agent](https://img.shields.io/badge/Explore-Tiger%20Voice%20Agent-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhinavKhareTech/tiger-voice-agent)
+
+tiger-voice-agent is the most complete reference for regulated-domain voice AI: real architecture for Indian vernacular onboarding flows with TRAI/RBI compliance baked in, not bolted on.
 
 **Scale Engineering**  
 Grew Asianet News Digital from 3M to 75M MAUs (9 languages) while nearly doubling revenue. Built and led two large India GCCs (400-500 FTE). Deployed fintech systems processing millions of daily transactions across MENA.
@@ -42,6 +45,8 @@ Production-grade merchant acquiring platform: Go/Java/Python reference code, Ter
 | **[high-availability-payments-api](https://github.com/AbhinavKhareTech/high-availability-payments-api)** | Multi-region resilient payments API: circuit breakers, graceful degradation |
 | **[distributed-rate-limiter](https://github.com/AbhinavKhareTech/distributed-rate-limiter)** | High-throughput distributed rate limiting (Redis + token bucket) |
 | **[payment-intelligence-engine](https://github.com/AbhinavKhareTech/payment-intelligence-engine)** | Intelligent payment routing, dynamic fee optimization, ML-based decisioning, transaction enrichment, and adaptive orchestration layer |
+
+merchant-payments-platform and payment-intelligence-engine are designed to work together. The intelligence engine plugs directly into merchant-payments-platform authorization flows for real-time risk decisioning.
 
 ### Other Work
 **Data Platform Engineering** — real-time data integration, connector frameworks, and pipeline observability:
