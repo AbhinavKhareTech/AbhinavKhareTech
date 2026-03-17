@@ -33,7 +33,8 @@ tiger-voice-agent is the most complete reference for regulated-domain voice AI: 
 Grew Asianet News Digital from 3M to 75M MAUs (9 languages) while nearly doubling revenue. Built and led two large India GCCs (400-500 FTE). Deployed fintech systems processing millions of daily transactions across MENA.
 
 ### Featured Repositories
-**Most comprehensive reference implementation** — actual code + infrastructure from production-grade designs:  
+**Most comprehensive Open Source reference implementation** — real architecture, real code + real infrastructure from production-grade designs: 
+
 [![Merchant Payments Platform](https://img.shields.io/badge/Explore-Merchant%20Payments-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhinavKhareTech/merchant-payments-platform)  
 Production-grade merchant acquiring platform: Go/Java/Python reference code, Terraform IaC, 50k+ TPS design, <45 ms fraud decisions, UPI flows, fraud ensemble (rules + XGBoost + autoencoder), idempotency, double-entry ledger, OpenAPI spec.
 
