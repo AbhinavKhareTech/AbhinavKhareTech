@@ -8,7 +8,7 @@
 Two **$15M exits**. 12 board seats across fintech, banking, media, infrastructure, and defence.
 Operating at the intersection of deep systems engineering, product strategy, and high-growth company building.
 
-`Payments` `Risk & Fraud` `Voice AI` `AI Infrastructure` `India GCC Building`
+`Payments` `Risk & Fraud` `Voice AI` `AI Agentic Infrastructure` `India GCC Building`
 
 ---
 
