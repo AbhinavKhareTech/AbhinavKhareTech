@@ -2,7 +2,7 @@
 
 ### Engineering Executive · 4× Cofounder & CTO
 
-*Payments · Risk & Fraud · AI Infrastructure · Voice AI*
+*Payments · Risk & Fraud · AI Agentic Infrastructure · Voice AI*
 
 20+ years shipping production-scale platforms across fintech, payments, AI infrastructure, and consumer tech.
 Two **$15M exits**. 12 board seats across fintech, banking, media, infrastructure, and defence.
